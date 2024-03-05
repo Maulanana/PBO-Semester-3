@@ -2,7 +2,7 @@ import pygame
 
 def main():
     # lokasi file musik 
-    file_path = r'C:\Users\nazar\PBO\Pertemuan_3\Media\konosuba.mp3' 
+    file_path = r'C:\Users\maulananana\PBO\Pertemuan_3\Media\konosuba.mp3' 
 
     try:
         # Inisialisasi Pygame
